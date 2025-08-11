@@ -1,0 +1,13 @@
+# Core app dependencies
+fastapi==0.115.0
+uvicorn==0.30.6
+gunicorn==21.2.0
+
+# Google Cloud Vertex AI
+google-cloud-aiplatform==1.62.0
+
+# File upload support
+python-multipart==0.0.9
+
+# PDF parsing
+PyPDF2==3.0.1
